@@ -1,5 +1,22 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
 .header__logo {
 	width: 122px;
+	border: 7px solid green;
+	margin-top: 20px;
+	margin-bottom: 50px;
+	margin-left: 20px;
+	margin-right: 20px;
+	height: 120px;
+	padding: 30px;
+	box-sizing: border-box;
+}
+.header__logo{
+	border: 7px solid green;
 }
 .navbar-il {
 	list-style-type: none;
@@ -12,9 +29,17 @@
 	line-height: 27px;
 }
 .band {
+	background-color: darkred;
 	width: 1050px;
 	height: 383px;
 	object-fit: contain;
+	border: 7px solid green;
+	margin-top: 100px;
+	margin-bottom: 50px;
+	margin-left: 20px;
+	margin-right: 20px;
+
+	padding: 30px;
 }
 .footer__logo {
 	width: 122px;
@@ -31,4 +56,12 @@
 }
 .cont {
 	background-color: #40E0D0;
+}
+.cont{
+	border: 7px solid green;
+	margin-top: 100px;
+	margin-bottom: 50px;
+	margin-left: 20px;
+	margin-right: 20px;
+	padding: 30px;
 }
