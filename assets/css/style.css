@@ -1,0 +1,34 @@
+.header__logo {
+	width: 122px;
+}
+.navbar-il {
+	list-style-type: none;
+}
+.navbar-il a{
+	color: #454545;
+	text-decoration: none;
+	font-size: 20px;
+	letter-spacing: 0.2px;
+	line-height: 27px;
+}
+.band {
+	width: 1050px;
+	height: 383px;
+	object-fit: contain;
+}
+.footer__logo {
+	width: 122px;
+}
+.prg {
+	font-size: 20px;
+	letter-spacing: 0.2px;
+	line-height: 17px;
+}
+.adrs {
+	font-size: 20px;
+	letter-spacing: 0.2px;
+	line-height: 17px;
+}
+.cont {
+	background-color: #40E0D0;
+}
